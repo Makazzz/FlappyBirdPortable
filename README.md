@@ -5,11 +5,11 @@
 # FlappyBird Portable<a href="https://portableapps.com/"><img src="https://cdn.portableapps.com/portableapps.com_1546.png" width="309" height="45" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
 <p align="center">
-	<a href="https://github.com/Makazzz/FlappyBirdPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/FlappyBirdPortable?color=0cf&logo=**Choose**"></a>
-	<a href="https://github.com/Makazzz/FlappyBirdPortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/FlappyBirdPortable/latest/total?color=blue"></a>
-	<a href="https://github.com/Makazzz/FlappyBirdPortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/FlappyBirdPortable/total?color=0cf"></a>
-	<a href="https://github.com/Makazzz/FlappyBirdPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/FlappyBirdPortable?color=blue"></a>
-	<a href="https://raw.githubusercontent.com/Makazzz/FlappyBirdPortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/FlappyBirdPortable?color=0cf"></a>
+	<a href="https://github.com/Makazzz/FlappyBirdPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/FlappyBirdPortable?color=brightgreen"></a>
+	<a href="https://github.com/Makazzz/FlappyBirdPortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/FlappyBirdPortable/latest/total?color=yellow"></a>
+	<a href="https://github.com/Makazzz/FlappyBirdPortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/FlappyBirdPortable/total?color=brightgreen"></a>
+	<a href="https://github.com/Makazzz/FlappyBirdPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/FlappyBirdPortable?color=yellow"></a>
+	<a href="https://raw.githubusercontent.com/Makazzz/FlappyBirdPortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/FlappyBirdPortable?color=brightgreen"></a>
 </p>
 
 Clone of the famous Flappy Bird.

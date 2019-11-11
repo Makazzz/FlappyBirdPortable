@@ -50,4 +50,4 @@ is packaged in an installer and complete zip file.
 
 *	FlappyBird Portable released with the [MIT license](https://raw.githubusercontent.com/Makazzz/FlappyBirdPortable/master/LICENSE).
 *	PortableApps.com Launcher released with the [GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/FlappyBirdPortable/master/FlappyBirdPortable/Other/Source/LauncherLicense.txt).
-*	FlappyBird released with the [MIT license](https://raw.githubusercontent.com/fuzun/Flappy-Bird-Qt/master/LICENSE.txt).
+*	FlappyBird released with the [MIT license](https://raw.githubusercontent.com/fuzun/Flappy-Bird-Qt/master/LICENSE).

@@ -43,7 +43,7 @@ is packaged in an installer and complete zip file.
 
 ## Credits
 
-*	FlappyBird Portable is a redistribution of [FlappyBird](https://github.com/fuzun/Flappy-Bird-Qt), developed by the [fuzun](https://github.com/fuzun).
+*	FlappyBird Portable is a redistribution of [FlappyBird](https://github.com/fuzun/Flappy-Bird-Qt), developed by [fuzun](https://github.com/fuzun).
 *	[PortableApps.com platform](https://PortableApps.com/download) developed by the [PortableApps.com team](https://PortableApps.com).
 
 ## License

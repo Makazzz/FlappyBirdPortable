@@ -1,0 +1,11 @@
+# Ignore App folder
+FlappyBirdPortable/App/FlappyBird
+
+# Ignore Data folder
+FlappyBirdPortable/Data
+
+# Ignore Work folder
+Work
+
+# Ignore log
+pac_installer_log.ini
